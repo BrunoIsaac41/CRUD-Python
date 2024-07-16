@@ -5,3 +5,4 @@
 "menu_opcoes.py": menu.
 
 A Framework web em flask está em desenvolvimento. No momento tenho pouco tempo.
+Para utilizar, baixe os modulos. Execute main.py
