@@ -1,4 +1,4 @@
-'dad.json': um exemplo de como os dados são armazenados. 
+'dad.json': um exemplo de como os dados são armazenados.\n 
 "interface.py": onde ocorre a estrutura do sistema.
 "categorias.py": onde acontece a instância dos objetos das categorias. 
 "main.py" : apenas inicialização. 
