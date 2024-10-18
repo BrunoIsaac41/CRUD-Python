@@ -11,5 +11,5 @@
 
 > Para utilizar, baixe os módulos. Execute 'rode' main.py
 
-## Um Framework web em flask está em desenvolvimento.
+## Uma interface web em flask está em desenvolvimento.
 
